@@ -20,6 +20,7 @@
     "@modules/onboarding": "file:./modules/onboarding/",
     "@modules/privacy-policy": "file:./modules/privacy-policy",
     "@modules/push-notifications": "file:./modules/push-notifications/",
+    "@modules/splash": "file:./modules/splash/",
     "@react-native-community/masked-view": "^0.1.10",
     "@react-navigation/native": "^5.9.3",
     "@react-navigation/stack": "^5.14.3",
